@@ -1,10 +1,10 @@
-# Tic Tac Toe
+# Tic Tac Toe by ArcLyn
 
 A simple, responsive Tic Tac Toe game created with HTML, CSS, and JavaScript.
 
 ## Play Online
 
-You can play the game online at: <a href="https://tictactoebyarclyn.tiiny.site/" target="_blank">https://tictactoebyarclyn.tiiny.site/</a>
+You can play the game online at: [https://tictactoebyarclyn.tiiny.site/](https://tictactoebyarclyn.tiiny.site/)
 
 ## Android App
 
